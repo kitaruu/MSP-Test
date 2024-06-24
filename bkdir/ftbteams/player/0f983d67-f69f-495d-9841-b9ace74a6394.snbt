@@ -1,0 +1,17 @@
+{
+	id: "0f983d67-f69f-495d-9841-b9ace74a6394"
+	type: "player"
+	player_name: "_Kitaru_"
+	ranks: {
+		0f983d67-f69f-495d-9841-b9ace74a6394: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "_Kitaru_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

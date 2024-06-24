@@ -20009,3 +20009,70 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Jun2024 02:25:08.530] [IO-Worker-14/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
 [24Jun2024 02:25:15.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
 [24Jun2024 02:26:15.957] [Worker-Main-5/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-5 shutdown
+[24Jun2024 02:27:04.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Jun2024 02:27:05.097] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[24Jun2024 02:27:05.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jun2024 02:27:05.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jun2024 02:27:05.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jun2024 02:27:05.156] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[24Jun2024 02:27:05.157] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[24Jun2024 02:27:07.222] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-21
+[24Jun2024 02:27:07.246] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[24Jun2024 02:27:07.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Jun2024 02:27:08.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Jun2024 02:27:08.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mmorpg:dungeon
+[24Jun2024 02:27:08.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/overworldmirror:overworld
+[24Jun2024 02:27:08.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[24Jun2024 02:27:08.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[24Jun2024 02:27:08.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Jun2024 02:27:08.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[24Jun2024 02:27:08.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[24Jun2024 02:27:08.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2024 02:27:08.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2024 02:27:08.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jun2024 02:27:08.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jun2024 02:27:08.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[24Jun2024 02:27:08.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (overworld): All chunks are saved
+[24Jun2024 02:27:08.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[24Jun2024 02:27:08.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[24Jun2024 02:27:08.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jun2024 02:27:08.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[24Jun2024 02:27:08.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[24Jun2024 02:27:08.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Jun2024 02:27:08.718] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[24Jun2024 02:27:08.719] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$7d1699$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[24Jun2024 02:27:08.719] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$7d1699$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[24Jun2024 02:27:08.726] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[24Jun2024 02:27:08.726] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[24Jun2024 02:27:09.729] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[24Jun2024 02:27:09.729] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[24Jun2024 02:27:09.729] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for mmorpg:dungeon
+[24Jun2024 02:27:09.729] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for mmorpg:dungeon
+[24Jun2024 02:27:09.730] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for overworldmirror:overworld_mirror
+[24Jun2024 02:27:09.730] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for overworldmirror:overworld_mirror
+[24Jun2024 02:27:09.730] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for blue_skies:everbright
+[24Jun2024 02:27:09.730] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for blue_skies:everbright
+[24Jun2024 02:27:09.730] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for undergarden:undergarden
+[24Jun2024 02:27:09.731] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for undergarden:undergarden
+[24Jun2024 02:27:09.731] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[24Jun2024 02:27:09.731] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[24Jun2024 02:27:09.731] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for blue_skies:everdawn
+[24Jun2024 02:27:09.732] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for blue_skies:everdawn
+[24Jun2024 02:27:09.732] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for deeperdarker:otherside
+[24Jun2024 02:27:09.732] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for deeperdarker:otherside
+[24Jun2024 02:27:09.762] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[24Jun2024 02:27:09.762] [Worker-Main-7/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-7 shutdown
+[24Jun2024 02:27:09.763] [Worker-Main-21/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-21 shutdown
+[24Jun2024 02:27:09.763] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[24Jun2024 02:27:09.762] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
+[24Jun2024 02:27:09.763] [Worker-Main-1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-1 shutdown
+[24Jun2024 02:27:09.763] [Worker-Main-8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-8 shutdown
+[24Jun2024 02:27:09.763] [Worker-Main-9/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-9 shutdown
+[24Jun2024 02:27:09.763] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[24Jun2024 02:27:09.764] [Worker-Main-6/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-6 shutdown
+[24Jun2024 02:27:09.764] [Worker-Main-4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-4 shutdown
+[24Jun2024 02:27:09.774] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[24Jun2024 02:27:09.776] [Server thread/INFO] [Framework/]: Unloading server configs...
+[24Jun2024 02:27:09.778] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[24Jun2024 02:27:09.798] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[24Jun2024 02:27:09.841] [Server thread/INFO] [quickstack/]: [quickstack]: Configuration changed.

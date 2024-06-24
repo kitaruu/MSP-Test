@@ -1,0 +1,17 @@
+{
+	id: "40cbb843-ae12-447d-b63b-0dbcbddadd79"
+	type: "player"
+	player_name: "Azra4k"
+	ranks: {
+		40cbb843-ae12-447d-b63b-0dbcbddadd79: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Azra4k"
+		"ftbteams:description": ""
+		"ftbteams:color": "#93FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
